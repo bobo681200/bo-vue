@@ -1,0 +1,344 @@
+Uri: http://www.cdyangxiao.com/
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\index.html
+Content Type: text/html
+
+Uri: http://www.cdyangxiao.com/css/common.css
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\css\common.css
+Content Type: text/css
+
+Uri: http://www.cdyangxiao.com/css/css.css
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\css\css.css
+Content Type: text/css
+
+Uri: http://www.cdyangxiao.com/css/bootstrap.min.css
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://www.cdyangxiao.com/css/style.css
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\css\style.css
+Content Type: text/css
+
+Uri: http://www.cdyangxiao.com/course.html
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\course.html
+Content Type: text/html
+
+Uri: http://www.cdyangxiao.com/js/jquery.js
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\js\jquery.js
+Content Type: application/javascript
+
+Uri: http://www.cdyangxiao.com/js/jquery.smoove.min.js
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\js\jquery.smoove.min.js
+Content Type: application/javascript
+
+Uri: http://www.cdyangxiao.com/js/bootstrap.min.js
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://www.cdyangxiao.com/img/logo.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\logo.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/logo1.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\logo1.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/btn.jpg
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\btn.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.cdyangxiao.com/img/person.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\person.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/tel.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\tel.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/video/jiemakz.mp4
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\video\jiemakz.mp4
+Content Type: video/mp4
+
+Uri: http://www.cdyangxiao.com/img/pic1.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\pic1.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/pic2.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\pic2.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/pic3.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\pic3.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/pic4.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\pic4.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/budian1.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\budian1.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/budian2.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\budian2.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/budian3.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\budian3.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/jihe1.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\jihe1.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/jian1.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\jian1.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/jihe2.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\jihe2.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/jian2.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\jian2.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/jihe4.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\jihe4.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/jian3.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\jian3.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/jihe3.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\jihe3.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/zhi1.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\zhi1.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/zhi2.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\zhi2.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/zhi3.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\zhi3.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/lun1.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\lun1.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/lun2.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\lun2.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/lun3.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\lun3.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/zhi4.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\zhi4.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/zhi5.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\zhi5.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/zhi6.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\zhi6.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/zhi7.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\zhi7.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/li1.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\li1.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/li2.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\li2.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/li3.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\li3.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/li4.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\li4.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/jin1.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\jin1.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/out1.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\out1.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/out2.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\out2.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/out3.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\out3.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/link1.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\link1.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/link11.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\link11.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/link3.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\link3.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/link4.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\link4.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/link17.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\link17.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/zhongshan2.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\zhongshan2.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/link6.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\link6.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/link7.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\link7.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/link8.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\link8.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/link18.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\link18.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/link9.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\link9.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/link10.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\link10.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/link2.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\link2.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/link12.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\link12.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/link19.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\link19.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/link13.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\link13.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/link14.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\link14.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/yuanwei2.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\yuanwei2.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/link16.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\link16.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/link20.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\link20.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/dingwei.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\dingwei.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/tel2.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\tel2.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/person2.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\person2.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/web.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\web.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/mail.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\mail.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/cuxiao3.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\cuxiao3.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/js/star.js
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\js\star.js
+Content Type: application/javascript
+
+Uri: http://www.cdyangxiao.com/js/swiper.min.js
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\js\swiper.min.js
+Content Type: application/javascript
+
+Uri: http://www.cdyangxiao.com/img/banner.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\banner.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/bg1.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\bg1.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/jiao.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\jiao.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/bg2.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\bg2.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/bg4.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\bg4.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/bg3.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\bg3.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/bg5.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\bg5.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/bg6.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\bg6.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/img/bg7.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\bg7.png
+Content Type: image/png
+
+Uri: http://www.cdyangxiao.com/js/jquery.min.js
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://www.cdyangxiao.com/img/w1.png
+File Name: C:\Users\奥特曼\Desktop\www.cdyangxiao.com\img\w1.png
+Content Type: image/png
+
